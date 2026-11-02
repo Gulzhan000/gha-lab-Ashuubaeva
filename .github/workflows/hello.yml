@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Приветствие
-        run: echo "Привет, Гульжана!"
+        run: echo "Привет, Гулжан!"
       - name: Дата и время
         run: date
